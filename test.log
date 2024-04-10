@@ -1,0 +1,100 @@
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.YouTube.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.google.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.twitter.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.instagram.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.baidu.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.vk.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.live.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.yahoo.co.jp
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.amazon.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.netflix.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.pornhub.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.office.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.wikipedia.org
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.tiktok.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.reddit.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.zoom.us
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.linkedin.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.yahoo.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.yandex.ru
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.msn.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.docomo.ne.jp
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.weather.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://news.yahoo.co.jp
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.globo.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.Microsoft.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.Facebook.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.xhamster.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.samsung.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.xnxx.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.discord.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.google.com.br
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.microsoftonline.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.duckduckgo.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.whatsapp.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.t.me
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.roblox.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.bing.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.eBay.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.qq.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.Naver.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.turbopages.org
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.twitch.tv
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.pinterest.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.bilibili.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.mail.ru
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.accuweather.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.bbc.co.uk
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.fandom.com
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.ok.ru
+2023-08-02T17:19:44.857+0800	DEBUG	logCustomized/main.go:48	尝试进行 GET 请求：https://www.xvideos.com
+2023-08-02T17:19:45.045+0800	ERROR	logCustomized/main.go:53	获取 URL 时出错：https://www.microsoftonline.com，错误信息：Get "https://www.microsoftonline.com": dial tcp: lookup www.microsoftonline.com: no such host
+2023-08-02T17:19:45.092+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.baidu.com
+2023-08-02T17:19:45.201+0800	ERROR	logCustomized/main.go:53	获取 URL 时出错：https://www.twitch.tv，错误信息：Get "https://www.twitch.tv": read tcp 192.168.3.222:60326->151.101.110.167:443: wsarecv: An existing connection was forcibly closed by the remote host.
+2023-08-02T17:19:45.467+0800	INFO	logCustomized/main.go:55	成功！状态码：403 Forbidden，URL：https://www.accuweather.com
+2023-08-02T17:19:45.563+0800	ERROR	logCustomized/main.go:53	获取 URL 时出错：https://www.pornhub.com，错误信息：Get "https://www.pornhub.com": read tcp 192.168.3.222:60315->66.254.114.41:443: wsarecv: An existing connection was forcibly closed by the remote host.
+2023-08-02T17:19:45.580+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.zoom.us
+2023-08-02T17:19:45.602+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://news.yahoo.co.jp
+2023-08-02T17:19:45.835+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.linkedin.com
+2023-08-02T17:19:45.905+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.amazon.com
+2023-08-02T17:19:46.053+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.yahoo.com
+2023-08-02T17:19:46.056+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.fandom.com
+2023-08-02T17:19:46.070+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.bilibili.com
+2023-08-02T17:19:46.075+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.samsung.com
+2023-08-02T17:19:46.077+0800	INFO	logCustomized/main.go:55	成功！状态码：501 Not Implemented，URL：https://www.qq.com
+2023-08-02T17:19:46.204+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.Naver.com
+2023-08-02T17:19:46.589+0800	INFO	logCustomized/main.go:55	成功！状态码：403 Forbidden，URL：https://www.netflix.com
+2023-08-02T17:19:46.618+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.bing.com
+2023-08-02T17:19:46.702+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.docomo.ne.jp
+2023-08-02T17:19:46.783+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.yahoo.co.jp
+2023-08-02T17:19:46.803+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.eBay.com
+2023-08-02T17:19:46.819+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.Microsoft.com
+2023-08-02T17:19:46.837+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.yandex.ru
+2023-08-02T17:19:46.926+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.live.com
+2023-08-02T17:19:47.109+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.msn.com
+2023-08-02T17:19:47.126+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.globo.com
+2023-08-02T17:19:47.445+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.roblox.com
+2023-08-02T17:19:48.312+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.office.com
+2023-08-02T17:19:48.494+0800	INFO	logCustomized/main.go:55	成功！状态码：200 Ok，URL：https://www.turbopages.org
+2023-08-02T17:19:48.986+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.vk.com
+2023-08-02T17:19:49.340+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.weather.com
+2023-08-02T17:19:49.373+0800	INFO	logCustomized/main.go:55	成功！状态码：200 OK，URL：https://www.mail.ru
+2023-08-02T17:19:55.254+0800	ERROR	logCustomized/main.go:53	获取 URL 时出错：https://www.wikipedia.org，错误信息：Get "https://www.wikipedia.org": net/http: TLS handshake timeout
+2023-08-02T17:19:57.070+0800	ERROR	logCustomized/main.go:53	获取 URL 时出错：https://www.twitter.com，错误信息：Get "https://www.twitter.com": net/http: TLS handshake timeout
+2023-08-02T17:20:05.933+0800	ERROR	logCustomized/main.go:53	获取 URL 时出错：https://www.google.com.br，错误信息：Get "https://www.google.com.br": dial tcp 202.53.137.209:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2023-08-02T17:20:05.964+0800	ERROR	logCustomized/main.go:53	获取 URL 时出错：https://www.instagram.com，错误信息：Get "https://www.instagram.com": dial tcp 31.13.95.35:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2023-08-02T17:20:05.964+0800	ERROR	logCustomized/main.go:53	获取 URL 时出错：https://www.xnxx.com，错误信息：Get "https://www.xnxx.com": dial tcp 128.121.146.101:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2023-08-02T17:20:05.996+0800	ERROR	logCustomized/main.go:53	获取 URL 时出错：https://www.google.com，错误信息：Get "https://www.google.com": dial tcp 69.171.247.71:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2023-08-02T17:20:06.060+0800	ERROR	logCustomized/main.go:53	获取 URL 时出错：https://www.discord.com，错误信息：Get "https://www.discord.com": dial tcp 128.242.240.85:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2023-08-02T17:20:06.060+0800	ERROR	logCustomized/main.go:53	获取 URL 时出错：https://www.Facebook.com，错误信息：Get "https://www.Facebook.com": dial tcp 208.31.254.33:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2023-08-02T17:20:06.075+0800	ERROR	logCustomized/main.go:53	获取 URL 时出错：https://www.reddit.com，错误信息：Get "https://www.reddit.com": dial tcp 31.13.95.34:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2023-08-02T17:20:06.075+0800	ERROR	logCustomized/main.go:53	获取 URL 时出错：https://www.tiktok.com，错误信息：Get "https://www.tiktok.com": dial tcp 69.171.242.11:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2023-08-02T17:20:06.075+0800	ERROR	logCustomized/main.go:53	获取 URL 时出错：https://www.t.me，错误信息：Get "https://www.t.me": dial tcp 149.154.167.99:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2023-08-02T17:20:06.091+0800	ERROR	logCustomized/main.go:53	获取 URL 时出错：https://www.duckduckgo.com，错误信息：Get "https://www.duckduckgo.com": dial tcp 128.242.245.43:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2023-08-02T17:20:07.023+0800	ERROR	logCustomized/main.go:53	获取 URL 时出错：https://www.xhamster.com，错误信息：Get "https://www.xhamster.com": dial tcp 157.240.1.33:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2023-08-02T17:20:07.023+0800	ERROR	logCustomized/main.go:53	获取 URL 时出错：https://www.YouTube.com，错误信息：Get "https://www.YouTube.com": dial tcp 69.63.187.12:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2023-08-02T17:20:07.023+0800	ERROR	logCustomized/main.go:53	获取 URL 时出错：https://www.ok.ru，错误信息：Get "https://www.ok.ru": dial tcp 199.59.150.40:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2023-08-02T17:20:07.023+0800	ERROR	logCustomized/main.go:53	获取 URL 时出错：https://www.whatsapp.com，错误信息：Get "https://www.whatsapp.com": dial tcp 103.240.180.117:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2023-08-02T17:20:07.023+0800	ERROR	logCustomized/main.go:53	获取 URL 时出错：https://www.bbc.co.uk，错误信息：Get "https://www.bbc.co.uk": dial tcp 185.60.216.169:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2023-08-02T17:20:07.023+0800	ERROR	logCustomized/main.go:53	获取 URL 时出错：https://www.pinterest.com，错误信息：Get "https://www.pinterest.com": dial tcp 199.59.148.222:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2023-08-02T17:20:07.023+0800	ERROR	logCustomized/main.go:53	获取 URL 时出错：https://www.xvideos.com，错误信息：Get "https://www.xvideos.com": dial tcp 31.13.83.2:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
